@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 40vw;
+    height: 70vh;
+    border: 2px solid black;
+}
+
+.container img{
+    width: 10vw;
+}
